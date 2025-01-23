@@ -4,7 +4,11 @@
 
 ## Overview
 
+
 This project provides complete files for building custom avionics hardware compatible for Microsoft Flight Simulator. The goal is to create an accessible, high-quality hardware solution for flight simulation enthusiasts and communities.
+
+
+Given the nature of the two types of Aircraft the modules are nearly identical to with each model of aircraft.  I will be focusing on the A350X for hardware design.
 
 While this is a ongoing project,  I do this all in my own time as I have other commitments, so please bare with me while this builds into something more complete.  I will be releasing module by module as and when they're finished and tested.
 
