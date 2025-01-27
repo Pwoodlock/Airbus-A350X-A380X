@@ -41,7 +41,7 @@ The following modules are being actively designed and worked on:
 > [!NOTE]
 > Looking for Professional Engineered Cockpit Components & Avionics ? Check out my good friend [@DezAer](https://www.facebook.com/REALISMcockpitsimulation/)
 
-[IMAGE](https://scontent-dub4-1.xx.fbcdn.net/v/t39.30808-6/462467417_1065587388591294_7000626022793055900_n.png?_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=oIdU5nQwMSkQ7kNvgH9xQKx&_nc_zt=23&_nc_ht=scontent-dub4-1.xx&_nc_gid=AoXgqoT7XmMblwBARJjM8DF&oh=00_AYB22LRhZPQLmpJnyFvFmDLvf7LryFX-jOfF19SU1EUymg&oe=679D61FF)
+<img src="https://scontent-dub4-1.xx.fbcdn.net/v/t39.30808-6/462467417_1065587388591294_7000626022793055900_n.png?_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=oIdU5nQwMSkQ7kNvgH9xQKx&_nc_zt=23&_nc_ht=scontent-dub4-1.xx&_nc_gid=AoXgqoT7XmMblwBARJjM8DF&oh=00_AYB22LRhZPQLmpJnyFvFmDLvf7LryFX-jOfF19SU1EUymg&oe=679D61FF" alt="IMAGE" width="300"/>
 
 ---
 
@@ -85,16 +85,8 @@ I'll welcome any productive contributions from the community! Whether you're int
 
 Please read the [Contributing Guidelines](CONTRIBUTING.md) for details on the code of conduct and the process for submitting pull requests.
 
----
-
-
-[IMAGE](https://scontent-dub4-1.xx.fbcdn.net/v/t39.30808-6/462467417_1065587388591294_7000626022793055900_n.png?_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=oIdU5nQwMSkQ7kNvgH9xQKx&_nc_zt=23&_nc_ht=scontent-dub4-1.xx&_nc_gid=AoXgqoT7XmMblwBARJjM8DF&oh=00_AYB22LRhZPQLmpJnyFvFmDLvf7LryFX-jOfF19SU1EUymg&oe=679D61FF)
-
----
-
-
-
-
+<br>
+<br   >
 ## Future Development :
 ---
 
