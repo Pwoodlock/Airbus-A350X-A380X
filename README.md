@@ -64,13 +64,11 @@ The following modules are being actively designed and worked on:
 ---
 
 - Complete hardware schematics and PCB layouts
-- Microcontroller firmware for all module/s
 - Mechanical designs for enclosures and mounting solutions for CNC & 3D Printing Fabrication
-- USB interface with plug-and-play compatibility
-- Mobiflight Module
-- 
+- WASM Module
+- X-PLANE Plugin
 - Compatible with FlyByWire Simulations' A380X
-- Combability with other A350X Projects when they release.
+- Compatibility with other A350X Projects when they release.
 
 ## Contributing : 
 ---
@@ -78,7 +76,6 @@ The following modules are being actively designed and worked on:
 I'll welcome any productive contributions from the community! Whether you're interested in:
 
 - Hardware design
-- Firmware development
 - Mechanical design
 - Documentation
 - Testing and validation
