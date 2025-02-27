@@ -5,12 +5,25 @@
 > I've attached the first ALPHA version of the EFIS-CP hardware module. While this is not the final design, I just wanted to display the current progress. 
 
 
-![[Screenshot 2025-02-24 044211.png]]
+---
 
-![[Screenshot 2025-02-24 044150.png]]
+<img src="img/Screenshot%202025-02-24%20044150.png" alt="IMAGE" width="300"/> 
 
-![[Screenshot 2025-02-24 043942.png]]
- 
+---
+
+
+
+
+<img src="img/Screenshot%202025-02-24%20044211.png" alt="IMAGE" width="300"/> 
+
+---
+
+
+<img src="img/Screenshot%202025-02-24%20043942.png" alt="IMAGE" width="300"/> 
+
+---
+
+
 
 > [!NOTE]
 The project repository is a place holder while the first module is under development.
