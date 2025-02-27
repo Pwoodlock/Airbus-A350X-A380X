@@ -1,6 +1,16 @@
 # Avionics Hardware Stack for the [Flybywire Simulations](https://flybywiresim.com/) "A380X" with future implementation for the "A350X" 
 ---
 
+> [!NOTE]
+> I've attached the first ALPHA version of the EFIS-CP hardware module. While this is not the final design, I just wanted to display the current progress. 
+
+
+![[Screenshot 2025-02-24 044211.png]]
+
+![[Screenshot 2025-02-24 044150.png]]
+
+![[Screenshot 2025-02-24 043942.png]]
+ 
 
 > [!NOTE]
 The project repository is a place holder while the first module is under development.
@@ -23,13 +33,7 @@ This project is open to anyone that would like to contribute towards any aspect 
 The following modules are being actively designed and worked on:
 
 - [ ] EFIS-CP Captains Side - "In Dev"
-- [ ] AFS 
-- [ ] RMP-1
-- [ ] KCCU 1 & 2
-- [ ] EFIS-CP First Officer "Revision of Captains Side"
-- [ ] ECAM Control
 - [ ] Dedicated WASM Module 
-- [ ] Mobiflight Module 
 
 
 - Overhead Modules and other cockpit parts to follow.
@@ -43,7 +47,7 @@ The following modules are being actively designed and worked on:
 
 <img src="https://scontent-dub4-1.xx.fbcdn.net/v/t39.30808-6/462467417_1065587388591294_7000626022793055900_n.png?_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=oIdU5nQwMSkQ7kNvgH9xQKx&_nc_zt=23&_nc_ht=scontent-dub4-1.xx&_nc_gid=AoXgqoT7XmMblwBARJjM8DF&oh=00_AYB22LRhZPQLmpJnyFvFmDLvf7LryFX-jOfF19SU1EUymg&oe=679D61FF" alt="IMAGE" width="300"/> 
 
-<img src="https://github.com/Pwoodlock/Airbus-A350X-A380X/blob/main/img/da-cockpitparts.png" alt="IMAGE" width="300"/> 
+<img src="img/da-cockpitparts.png" alt="IMAGE" width="300"/> 
 
 <img src="https://github.com/Pwoodlock/Airbus-A350X-A380X/blob/main/img/452701799_1015059266977440_5643638912357827516_n.jpg" alt="IMAGE" width="300"/> 
 
@@ -53,9 +57,9 @@ The following modules are being actively designed and worked on:
 ## Getting Started : 
 ---
 
-- KiCad 8.0.8 upwards
-- FreeCad 1.0.0 upwards + KiCadStepUp plugin (Optional)
-- Visual Studio Code (Or your own IDE Preference)
+- EasyEDA Professional 
+- FreeCad 1.0.0 upwards
+- Visual Studio Code with STM32-CMAKE (Or your own IDE Preference)
 - PFD Viewer / [Gerber Viewer](https://jlcpcb.com/RGE)
 
 
@@ -66,9 +70,8 @@ The following modules are being actively designed and worked on:
 - Complete hardware schematics and PCB layouts
 - Mechanical designs for enclosures and mounting solutions for CNC & 3D Printing Fabrication
 - WASM Module
-- X-PLANE Plugin
-- Compatible with FlyByWire Simulations' A380X
-- Compatibility with other A350X Projects when they release.
+- X-PLANE Plugin (Not my first priority!)
+- Compatible with FlyByWire Simulations' A380X and iniBuilds A350-900
 
 ## Contributing : 
 ---
@@ -77,7 +80,6 @@ I'll welcome any productive contributions from the community! Whether you're int
 
 - Hardware design
 - Mechanical design
-- Documentation
 - Testing and validation
 - Technical Information regarding the A350X Series would be fantastic.
 
@@ -103,6 +105,7 @@ More to come later on this......
 - Flybywire Simulations & Contributor's for their outstanding work on the A380X & A320NX
 - To all of the Flight Simulation community for the last 20 + years. It's amazing to see the community grow to what it is now!
 - To all the awesome people I've had the pleasure of meeting and designing projects together with in the past.
+- 3D Modeller from FBW Simulations for measurements and Dennis
 
 
 
