@@ -2,6 +2,7 @@
 ---
 
 > [!NOTE]
+>  **Delay in Development: I've been working mostly on private source in my spare time which has led to a delay in my own personal projects!**
 > I've attached the first ALPHA version of the EFIS-CP hardware module. While this is not the final design, I just wanted to display the current progress. 
 
 ---
